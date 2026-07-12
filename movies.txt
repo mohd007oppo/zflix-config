@@ -1,0 +1,1 @@
+id=remote_demo_movie|title=My Bunny Test Movie|type=Movie|genre=Action|imageUrl=https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600|duration=1h 45m|releaseYear=2026|rating=9.0|description=This is a synced test movie streaming from Bunny.net!|videoUrl=https://test-streams.mux.dev/x36xhq/x36xhq.m3u8
